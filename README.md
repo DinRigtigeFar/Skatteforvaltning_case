@@ -1,4 +1,4 @@
-# Skatteforvaltning_case
+# Skatteforvaltning_case (Kodecase-graduate-2021)
 ## Requirements
 * Python >= 3.7
 * requests library
