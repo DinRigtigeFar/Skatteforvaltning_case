@@ -2,7 +2,7 @@
 ## Requirements
 * Python >= 3.7
 * requests library
-    * `pip install requests
+    * `pip install requests`
 
 ## Running
 Can be run from command line with:
